@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
-subtitle:
-description: wublub dubda
-author: Logos
+title: Chu Jian
+subtitle: Computer cience Undergraduate
+description: Machine Learning/Deep Learning/NLP
+author: Chu Jian
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 1999
 
 # icon between year and author @Footer
 authoricon: heart
