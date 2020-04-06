@@ -9,7 +9,7 @@ subtitle: Computer Science Undergraduate
 description: Machine Learning/Deep Learning/NLP
 author: Chu Jian
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -217,7 +217,8 @@ font:
 social:
   #LinkLabel: Link
     GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    ZhiHu: https://www.zhihu.com/people/chu-jian-92-69
+    Email: chujian_hit@163.com
 
 
 # Social Links Icons
