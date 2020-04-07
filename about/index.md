@@ -11,12 +11,11 @@ I am Chu Jian, an undergraduate in Department of Computer Science and Technology
 
 ## Professional Courses
 
-- Mathematical analysis (96)
-
+- Mathematical Analysis (96)
 - Mathematical logic (96) 
 - Principles of Computer Composition (90)
-- Linear algebra (90) 
 - Computer Network(93) 
+- Linear Algebra (90) 
 - Circuit Principle Analysis(92)
 - Calculation Method (92)
 - Formal Language and Automaton (92) 
