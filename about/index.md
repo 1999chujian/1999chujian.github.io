@@ -9,7 +9,7 @@ I am Chu Jian, an undergraduate in Department of Computer Science and Technology
 
 
 
-## Professional Courses
+## Professional Curriculum
 
 - Mathematical Analysis (96)
 - Mathematical logic (96) 
@@ -38,7 +38,7 @@ My research interests include Machine Learning and Deep Learning. Especially, I 
 
 ## Skills
 
-- **Programming** : Python, C/C++，Java，SQL, HTML, CSS，intel-8086
+- **Programming** : Python, C/C++，Java，SQL, HTML, CSS，intel-8086  
 
 - **Data Science**: Scikit-Learn, SVM, XGBoost,  CNN, RNN, LSTM, Transformer, BERT
 
