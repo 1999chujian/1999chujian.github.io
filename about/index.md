@@ -5,7 +5,7 @@ layout: page
 
 ## Biography
 
-I am Chu Jian, an undergraduate in Department of Computer Science and Technology of Harbin Institute of Technology，Weihai . My GPA is 89.2/100, Rank 9/142.
+I am Chu Jian, an undergraduate in Department of Computer Science and Technology .
 
 
 
@@ -25,14 +25,7 @@ I am Chu Jian, an undergraduate in Department of Computer Science and Technology
 
 ## Research Interest
 
-I have strong interest in maching learning, including but not limited to computer networking, high-performance computing and computer architecture. 
-
-My research interests include Machine Learning and Deep Learning. Especially, I am interested in
-
-- bandit optimization methods (e.g., Bayesian optimization) for non-convex problems and its applications in machine learning and reinforcement learning
-- evolutionary machine learning: applying theoretical-grounded evolutionary optimization to solve problems from machine learning
-- reinforcement learning and multi-armed bandit learning
-- Pareto optimization and multi-objective optimization
+I have strong interest in Machine Learning, including but not limited to Deep Learning,  Representative Learning and Natural Language Processing. 
 
 
 
@@ -42,7 +35,7 @@ My research interests include Machine Learning and Deep Learning. Especially, I 
 
 - **Data Science**: Scikit-Learn, SVM, XGBoost,  CNN, RNN, LSTM, Transformer, BERT
 
-- **Framework**: TensorFlow, PyTorch, Keras
+- **Framework**: TensorFlow, PyTorch, Keras,cuda
 
 - **Tools**: Git, Docker, Linux, VS Code,  Jupyter Notebook, Wire Shark, MarkDown, Latex
 
