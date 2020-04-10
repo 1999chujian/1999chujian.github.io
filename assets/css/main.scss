@@ -3,7 +3,6 @@
 // CSS Style Guide: http://codeguide.co/#css
 
 
-
 $scheme    : '{{ site.scheme | default: Muse }}';
 $variables : base $scheme custom;
 $mixins    : base $scheme custom;
@@ -68,7 +67,7 @@ $jekyll-config-map : (
 
 @function jekyll-config($key) {
   @return map-get($jekyll-config-map, $key);
-}
+};
 
 // Variables Layer
 // --------------------------------------------------
